@@ -1,23 +1,22 @@
 # Home page
 
-hi, welcome to my mkdocs site
+hi, welcome to my mkdocs site. my git profile is [gitsugatensho](https://github.com/gitsugatensho)
 
-## bullet point list
+## some of my work
 
-* My git profile is [gitsugatensho](https://github.com/gitsugatensho)
-* `command` - explanation.
+utm/
+    [my UTM page](./section1/utm/utm-page)     # The documentation homepage.
+linux/
+    [my work on linux](./section1/linux/linux-page)     # The documentation homepage.
+git/
+    [github progress](./section1/github/git-page)     # The documentation homepage.
+    [music-player](./section1/github/music-player)
+docker/
+    [docker-intro](./section1/docker/docker-page)     # The documentation homepage.
+    [mkdocs-works](./section1/docker/mkdocs-page)     # The documentation homepage.
+    [hadolint-progress](./section1/docker/hadolint-page)     # The documentation homepage.
 
-## Project layout
-
-    mkdocs.yml       # The configuration file.
-    docs/
-        index.md     # The documentation homepage.
-        about.md     # an about page
-        license.md   # empty license page
-        oldindex.md  # the old untouched index page
-        utm.md       # a page about utm
-        ...          # Other markdown pages, images and other files.
         
 ## Relevant links
 
-[About](http://0.0.0.0:8000/about/) | [UTM](http://0.0.0.0:8000/utm/) | [License](http://0.0.0.0:8000/license/) 
+[Home](./index/) | [About](/about/) | [License](license)
