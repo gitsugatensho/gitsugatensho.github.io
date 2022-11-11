@@ -1,4 +1,11 @@
 site_name: iio's Docs
-theme: 
-  name: material
-
+site_url: http://localhost:8000
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Section1:
+    - S1-1: section1/S1-1.md
+    - S1-2: section1/S1-2.md
+  - Section2:
+    - S2-1: section2/S2-1.md
+    - S2-2: section2/S2-2.md
