@@ -1,2 +1,2 @@
 # mkdocs
-my mkdocs repo for general and random stuff
+my mkdocs repo for random stuff
