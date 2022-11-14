@@ -5,8 +5,8 @@ nav:
   - Home: index.md
   - Projects:
     - Git:
-      - Github: section1/git/git-page.md  
-        - music player: section1/git/music-player.md 
+      - Github: section1/git/git-page.md
+        - music player: section1/git/music-player.md
       - Docker: docs/section1/docker/docker-page.md
         - mkdocs: section1/docker/mkdocs-page.md
       - Hadolint: section1/docker/hadolint-page.md
