@@ -10,9 +10,6 @@ The full UTM documentation can be found on [getutm.app](https://docs.getutm.app/
 * Run and store VMs from external drives
 
 
-## Project layout
+## Relevant links
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Home](/index) | [About](/about) | [License](/license) | [Docs](/section1)

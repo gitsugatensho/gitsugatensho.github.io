@@ -4,14 +4,17 @@ hi, welcome to my mkdocs site. my git profile is [gitsugatensho](https://github.
 
 ## some of my work
 
-utm/
+#### utm
     [my UTM page](./section1/utm/utm-page)     # The documentation homepage.
-linux/
+
+#### linux
     [my work on linux](./section1/linux/linux-page)     # The documentation homepage.
-git/
+
+#### git
     [github progress](./section1/github/git-page)     # The documentation homepage.
     [music-player](./section1/github/music-player)
-docker/
+
+#### docker
     [docker-intro](./section1/docker/docker-page)     # The documentation homepage.
     [mkdocs-works](./section1/docker/mkdocs-page)     # The documentation homepage.
     [hadolint-progress](./section1/docker/hadolint-page)     # The documentation homepage.
@@ -19,4 +22,5 @@ docker/
         
 ## Relevant links
 
-[Home](./index/) | [About](/about/) | [License](license)
+[Home](/index) | [About](/about) | [License](/license) | [Docs](/section1)
+
