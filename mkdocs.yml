@@ -1,15 +1,17 @@
 site_name: iio's Docs
 site_url: http://localhost:8000
 theme: readthedocs
+
 nav:
   - Home: index.md
   - Projects:
     - Git:
       - Github: section1/git/git-page.md
-        - music player: section1/git/music-player.md
-      - Docker: docs/section1/docker/docker-page.md
-        - mkdocs: section1/docker/mkdocs-page.md
+      - music player: section1/git/music-player.md
       - Hadolint: section1/docker/hadolint-page.md
+    - Docker: 
+      - Learning Docker: docs/section1/docker/docker-page.md
+      - Mkdocs: section1/docker/mkdocs-page.md
     - AWS:
       - Project 4: section2/AWS.md
       - Project 5: section2/AWS2.md
