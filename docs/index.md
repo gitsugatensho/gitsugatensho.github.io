@@ -5,19 +5,22 @@ hi, welcome to my mkdocs site. my git profile is [gitsugatensho](https://github.
 ## some of my work
 
 #### utm
-[my UTM page](./section1/utm/utm-page)     # The documentation homepage.
+[My page about UTM](./section1/utm/utm-page)
 
 #### linux
-[my work on linux](./section1/linux/linux-page)     # The documentation homepage.
+[My work on linux](./section1/linux/linux-page)
 
 #### git
-[github progress](./section1/github/git-page)     # The documentation homepage.
-[music-player](./section1/github/music-player)
+[My progress with github](./section1/github/git-page)
+
+[My work on a music-player git repo](./section1/github/music-player)
 
 #### docker
-[docker-intro](./section1/docker/docker-page)     # The documentation homepage.
-[mkdocs-works](./section1/docker/mkdocs-page)     # The documentation homepage.
-[hadolint-progress](./section1/docker/hadolint-page)     # The documentation homepage.
+[Introduction to Docker](./section1/docker/docker-page)
+
+[My work on Mkdocs](./section1/docker/mkdocs-page)
+
+[My progress using Hadolint](./section1/docker/hadolint-page)
 
         
 ## Relevant links

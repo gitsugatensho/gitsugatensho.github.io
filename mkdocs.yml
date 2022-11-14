@@ -10,12 +10,16 @@ nav:
       - music player: section1/git/music-player.md
       - Hadolint: section1/docker/hadolint-page.md
     - Docker: 
-      - Learning Docker: docs/section1/docker/docker-page.md
+      - Learning Docker: section1/docker/docker-page.md
       - Mkdocs: section1/docker/mkdocs-page.md
     - AWS:
       - Project 4: section2/AWS.md
       - Project 5: section2/AWS2.md
       - Project 6: section2/AWS3.md
   - Research:
-      - UTM: section1/UTM/utm-page.md
-      - Linux: docs/section1/linux/linux-page.md
+      - UTM: section1/utm/utm-page.md
+      - Linux: section1/linux/linux-page.md
+  - Misc:
+    - about: about.md
+    - licence: license.md
+    - oldindex: oldindex.md
