@@ -11,9 +11,9 @@ hi, welcome to my mkdocs site. my git profile is [gitsugatensho](https://github.
 [My work on linux](./section1/linux/linux-page)
 
 #### git
-[My progress with github](./section1/github/git-page)
+[My progress with github](./section1/git/git-page/)
 
-[My work on a music-player git repo](./section1/github/music-player)
+[My work on a music-player git repo](./section1/git/music-player)
 
 #### docker 
 [Introduction to Docker](./section1/docker/docker-page)

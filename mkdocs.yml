@@ -8,10 +8,10 @@ nav:
     - Git:
       - Github: section1/git/git-page.md
       - music player: section1/git/music-player.md
-      - Hadolint: section1/docker/hadolint-page.md
     - Docker: 
       - Learning Docker: section1/docker/docker-page.md
       - Mkdocs: section1/docker/mkdocs-page.md
+      - Hadolint: section1/docker/hadolint-page.md
     - AWS:
       - Project 4: section2/AWS.md
       - Project 5: section2/AWS2.md
