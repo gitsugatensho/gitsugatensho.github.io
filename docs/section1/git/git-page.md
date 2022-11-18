@@ -12,7 +12,7 @@ Project 1 of the Grad program is to learn Git.
 
 - I learnt about protection of master branches - for best practice, no one should alter the main branch, and merge requests from other branches need to be verified before merging. 
 
-- I then forked a project I found on github. It was a repo full of many different python projects. I decided to commit a change to a project called 'music player'. I forked the repo, and then changed a python file to have the title of the music file that was playing to be aligned in the center of the gui instead of aligned left. I pushed this code but into my forked repo.
+- I then forked a project I found on github. It was a repo full of many different python projects. I decided to commit a change to a project called ['music player'](music-player). I forked the repo, and then changed a python file to have the title of the music file that was playing to be aligned in the center of the gui instead of aligned left. I pushed this code back up to github into my forked repo.
 
 - I then took some time to understand what git diff, git status, and git log do. 
 
