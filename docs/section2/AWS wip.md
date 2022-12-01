@@ -23,8 +23,18 @@
     *The gif site! (ignore that it says 'cat fif' and shows a gif of Timmy the sheep*
     - I built the docker image within my repo and ran it. The docker app was being hosted on port 80.
 
+
 ##### Launch Templates and Auto Scaling Groups
-###### coming soon...
+- Create a launch template 
+    - Having trouble with this
+    - Didn’t do it correctly.
+- Create auto scaling group 
+    - What’s a use case for this in a work project?
+    - How can I schedule stop/start with time of the day?
+- Understand horizontal and vertical scaling 
+    - Understood.
+
+
 
 ## Relevant links
 
